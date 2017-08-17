@@ -1,2 +1,2 @@
 # FG_RNN
-Fully image-computable recurrent neural network for figure-ground segmentation
+**F**igure-**G**round Organization with a Biologically Plausible **R**ecurrent **N**eural **N**etwork
