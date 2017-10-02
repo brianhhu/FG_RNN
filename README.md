@@ -3,15 +3,18 @@
 
 ## Demo
 To run the model, ...
+1) Run Setup.m for instructions on how to run model.
+2) Model parameters can be adjusted in mfiles/makeDefaultParams.m
 
 ## Paper
 For more details about the model and/or experiments, please see our paper:
 
 ## Model Results and Evaluation
-Model results can be found in the **results** directory. The results are separated by task:
+Model results can be found in the **output** directory. The results are separated by type:
 
-* Contour detection (**BSDS-500** directory)
-* Figure-ground assignment (**BSDS-FG** directory)
+* edge (contour detection)
+* ori (figure-ground assignment)
+* group (segmentation)
 
 Evaluation code for the contour detection task can be found [here](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html).
 
