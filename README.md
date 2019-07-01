@@ -13,11 +13,10 @@ For more details about the model and/or experiments, please see our paper:
     @Article{Hu_etal19,
         Title = {Figure-Ground Organization in Natural Scenes: Performance of a Recurrent Neural Model Compared with Neurons of Area V2},
 	    Author = {Hu, Brian and von der Heydt, R{\"u}diger and Niebur, Ernst},
-        Journal = {eNeuro}
+        Journal = {eNeuro},
         Year = {2019},
 	    Volume = {6},
 	    Number = {3},
-	    Elocation-id = {ENEURO.0479-18.2019},
 	    Doi = {10.1523/ENEURO.0479-18.2019},
 	    Publisher = {Society for Neuroscience},
     }
@@ -35,7 +34,7 @@ Evaluation code for the figure-ground assignment task can be found [here](http:/
 
 We refer the reader to the authors' original papers detailing the datasets and benchmarks:
 
-    @article{Arbeleaz_etal11,
+    @Article{Arbeleaz_etal11,
       Author = {Arbelaez, Pablo and Maire, Michael and Fowlkes, Charless and Malik, Jitendra},
       Title = {Contour Detection and Hierarchical Image Segmentation},
       Journal = {IEEE Trans. Pattern Anal. Mach. Intell.},
@@ -47,7 +46,7 @@ We refer the reader to the authors' original papers detailing the datasets and b
       Publisher = {IEEE Computer Society},
     } 
 
-    @inproceedings{Teo_etal15,
+    @Inproceedings{Teo_etal15,
       Title={Fast 2D border ownership assignment},
       Author={Teo, Ching and Fermuller, Cornelia and Aloimonos, Yiannis},
       Booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
@@ -58,7 +57,7 @@ We refer the reader to the authors' original papers detailing the datasets and b
 ## Experimental Data
 The data used to compare our model results with experimental results can be found [here](http://dx.doi.org/10.7281/T1C8276W). If you use this data for your own research, please cite the following paper:
 
-    @article{Williford_vonderHeydt16,
+    @Article{Williford_vonderHeydt16,
       Title={Figure-ground organization in visual cortex for natural scenes},
       Author={Williford, Jonathan R and von der Heydt, R{\"u}diger},
       Journal={eNeuro},
