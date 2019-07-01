@@ -2,12 +2,25 @@
 **F**igure-**G**round Organization with a Biologically Plausible **R**ecurrent **N**eural **N**etwork
 
 ## Demo
-To run the model, ...
+To run the model,
 1) Run Setup.m for instructions on how to run model.
 2) Model parameters can be adjusted in mfiles/makeDefaultParams.m
+3) A demo of the model is found in demo.m
 
 ## Paper
 For more details about the model and/or experiments, please see our paper:
+
+    @Article{Hu_etal19,
+        Title = {Figure-Ground Organization in Natural Scenes: Performance of a Recurrent Neural Model Compared with Neurons of Area V2},
+	    Author = {Hu, Brian and von der Heydt, R{\"u}diger and Niebur, Ernst},
+        Journal = {eNeuro}
+        Year = {2019},
+	    Volume = {6},
+	    Number = {3},
+	    Elocation-id = {ENEURO.0479-18.2019},
+	    Doi = {10.1523/ENEURO.0479-18.2019},
+	    Publisher = {Society for Neuroscience},
+    }
 
 ## Model Results and Evaluation
 Model results can be found in the **output** directory. The results are separated by type:
